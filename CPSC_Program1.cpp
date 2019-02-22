@@ -27,8 +27,6 @@ int main()
   buildPerson(person, numberOfRecords);
   display(person, numberOfRecords);
   findRichest(person, numberOfRecords);
-  // cout << "Enter your full name to deposit money: " << endl;
-  // deposit(custName, person, numberOfRecords);
   return 0;
 }
 
